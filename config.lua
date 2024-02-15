@@ -4,12 +4,12 @@ Config = {}
 Config.PhoneScript = 'qb'
 
 Config.DebugHeists = false -- true for testing
-Config.DebugPoly = true
+Config.DebugPoly = false
 Config.AddEndJobCommand = true --adds slash commands to end a job if someone gets bugged out
 
 Config.MinimumPolice = 0 --change this to whatever you like
 Config.PoliceAlertle = true
-Config.MoneyType = 'cash'  -- cash/bank/blackmoney   -- whatever your server uses
+Config.MoneyType = 'bank'  -- cash/bank/blackmoney   -- whatever your server uses
 Config.EmailTime = 30 --how many seconds after accepting job before you ge the email for it
 
 --====Hack stuff====--
